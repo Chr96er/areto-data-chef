@@ -8,7 +8,7 @@ Installation step by step
 
 1. Clone the GitHub areto Data Chef repository to your local system
 
-2. Download https://github.com/areto-consulting-gmbh/Data-Chef/releases/download/3.2-rc/datachef-3.2-rc.zip and extract the archive into the Data Chef folder. There should be a target folder inside your Data Chef folder afterwards.
+2. Download [latest release](https://github.com/areto-consulting-gmbh/areto-data-chef/releases/tag/data-chef-3.2-rc4) and extract the archive into the Data Chef folder. There should be a target folder inside your Data Chef folder afterwards.
 
 (optional) For using Snowflake, download http://central.maven.org/maven2/net/snowflake/snowflake-jdbc/3.6.10/snowflake-jdbc-3.6.10.jar and move it into the drivers subdirectory inside your Data Chef folder.
 
